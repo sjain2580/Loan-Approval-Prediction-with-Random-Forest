@@ -81,7 +81,7 @@ The project includes a visualization of Feature Importance to help understand wh
 ![Categorical features vs Loan status](Categorical_features_vs_Loan_status.png)
 
 ## Live deployment
-Check the live app here: <>
+Check the live app here: <https://loan-predictorr.streamlit.app/>
 
 ## Contributors
 
