@@ -67,9 +67,21 @@ pip install -r requirements.txt
 python prediction.py
 ```
 
+4. Run the App locally:
+
+```bash
+streamlit run app.py
+```
+
 ## Visualization
 
 The project includes a visualization of Feature Importance to help understand which factors most influence the model's decisions. This helps in gaining business insights from the model.
+![Feature importance Plot](feature_importance.png)
+
+![Categorical features vs Loan status](Categorical_features_vs_Loan_status.png)
+
+## Live deployment
+Check the live app here: <>
 
 ## Contributors
 
